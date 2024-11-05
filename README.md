@@ -2,6 +2,8 @@
 
 - **Salman Ali**
 - **Muhammad Shahzad**
+- **Muhammad Taha Ali**
+  
 
 # Elektrix Website Clone
 
