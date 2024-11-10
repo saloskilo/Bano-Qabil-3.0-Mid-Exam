@@ -123,6 +123,30 @@ font-weight: 400;
   margin-left: 16px;
   border-radius: 4px;
 }
+@media screen and (max-width: 480px) {
+.main-header{
+  height: 20vh;
+  flex-direction: column;
+}
+  .header-top{
+    flex-direction: column;
+  }
+  .search-bar{
+    flex-direction: column;
+  }
+  .search-bar input[type="text"] {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    margin: 10px;
+  }
+  .search-icon{
+    width: 100%;
+  }
+  .announcement-bar,.icons, .nav-menu{
+    display: none;
+  }
+ }
 
 
 /* hero section  */
