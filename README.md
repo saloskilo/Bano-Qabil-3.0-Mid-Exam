@@ -29,3 +29,6 @@ This repository contains a cloned version of the Elektrix website. We are design
 
 This project is in development. We are working to ensure a responsive and accessible layout across the included pages.
 
+## LINK: https://elektrix.netlify.app/
+
+
