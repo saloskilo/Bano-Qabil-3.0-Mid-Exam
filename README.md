@@ -17,8 +17,7 @@ This repository contains a cloned version of the Elektrix website. We are design
 
 1. **Home Page**
 2. **About Us Page**
-3. **Products/Services Page**
-4. **Contact Us Page**
+3. **Contact Us Page**
 
 ## Technologies Used
 
